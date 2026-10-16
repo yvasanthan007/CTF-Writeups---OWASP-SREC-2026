@@ -47,7 +47,7 @@ payload = zlib.decompress(base64.b64decode(blob)).decode()
 print("---- decoded payload ----")
 print(payload)
 
-# Grab the flag automatically
+# Grab the flag automatically done here
 flag = re.search(r'[A-Za-z0-9_]+\{.*?\}', payload)
 print("---- flag ----")
 print(flag.group(0) if flag else "No flag pattern found")
