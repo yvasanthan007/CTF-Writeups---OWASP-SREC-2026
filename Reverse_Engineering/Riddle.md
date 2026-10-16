@@ -16,7 +16,7 @@
   - Examined the validation function and discovered that the door statements were misleading.
 
 - **Step 4: Recover the correct values**
-  - Tool: Python 3
+  - Tool: Python 3 - python used here
   - Reimplemented the validation algorithm and recovered the correct values for all 10 rounds.
 
 - **Step 5: Bypass validation**
