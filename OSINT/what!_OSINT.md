@@ -32,7 +32,7 @@ Full commit hash: 85e21ad44eba931314337300a2376b8d28f085ae
 
 
 
-[------------------FLAG:----OWASP{libheif_85e21ad44eba931314337300a2376b8d28f085ae_discourse}-------------]
+[------------------FLAG:----OWASP{libheif_85e21ad44eba931314337300a2376b8d28f085ae_discourse}--------------]
 
 
 
